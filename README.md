@@ -2,7 +2,7 @@
 
 CoffeeCast is a sophisticated web application that helps coffee shop owners predict and analyze customer traffic patterns based on weather data and historical trends. Built with React and modern web technologies, it provides actionable insights for better business planning.
 
-![CoffeeCast Dashboard](https://images.pexels.com/photos/1162194/pexels-photo-1162194.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
 
 ## Features
 
